@@ -45,3 +45,5 @@ This dashboard helps:
 - Repeat customers generate more value than first-time buyers 
 
 Screenshots-
+Show what the dashboard looks like- ![Alt text](https://github.com/sonalimore6/E-Commerce-Sales-Performance-Dashboard-Power-BI-/blob/main/ecommerce%20sales%20dashboard.png)
+Example- ![Dashboard Preview](https://github.com/sonalimore6/E-Commerce-Sales-Performance-Dashboard-Power-BI-/blob/main/ecommerce%20sales%20dashboard.png)
